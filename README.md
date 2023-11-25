@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-react-native-app.git
+   git clone https://github.com/hasssan4133/your-react-native-app.git
    cd your-react-native-app
    ```
 
